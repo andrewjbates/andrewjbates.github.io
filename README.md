@@ -6,7 +6,7 @@ I got a new phone in July. It's never had Facebook, Twitter, Instagram, Snapchat
 
 Despite this, I still compulsively treat my phone like a slot machine. Refreshing my email (why? I only get a few things a day) is a new and strange habit now that I don't have easy access to message boards. Most damningly, I've started constantly checking the social side of Pinboard ([/recent](https://pinboard.in/recent) and [/popular](https://pinboard.in/popular)) to get my fix. This list exists so I can control those impulses, and any others I might pick up in the future:
 
-* (BadHabits.txt)
+* [BadHabits.txt](BadHabits.txt), an EasyList-compatible filterset for things that scratch that pull-to-refresh itch.
 
 
 If you've read this far, then maybe check out this guy who also has some good ideas. He goes off a few deep ends that I'm not convinced are anything beyond socially-acceptable OCD, and the article is _70 minutes long_, but it's had a few gems to help me master my little addiction device.
