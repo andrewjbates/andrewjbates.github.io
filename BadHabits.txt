@@ -3,7 +3,5 @@
 ! Title: Andrew's Bad Habits
 ! Expires: 1 days
 
-||pinboard.in/popular/
-||pinboard.in/popular?
-||pinboard.in/recent/
-||pinboard.in/recent?
+||pinboard.in/popular^$document
+||pinboard.in/recent^$document
